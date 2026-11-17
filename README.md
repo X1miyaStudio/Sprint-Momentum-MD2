@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:F59E0B,100:00FF88&height=180&section=header&text=Sprint%20Momentum&fontSize=40&fontColor=ffffff&fontAlignY=40" width="100%" alt="Sprint Momentum Banner" />
 
 [![Game](https://img.shields.io/badge/Minecraft_Dungeons_II-UE_5.6-00FF88?style=for-the-badge)](https://github.com/X1miyaStudio/Sprint-Momentum-MD2)
+[![CurseForge](https://img.shields.io/badge/CurseForge-Download-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft-dungeons-II/mods/sprint-momentum)
 [![Loader](https://img.shields.io/badge/Blueprint_Loader-2.0%2B-blueviolet?style=for-the-badge)](https://www.nexusmods.com/minecraftdungeons2/mods/2)
 [![SDK](https://img.shields.io/badge/Built_with-NeoRune-00BFFF?style=for-the-badge)](https://github.com/X1miyaStudio/Sprint-Momentum-MD2)
 [![Studio](https://img.shields.io/badge/Studio-X1miyaStudio-064E3B?style=for-the-badge)](https://t.me/X1miyaStudio)

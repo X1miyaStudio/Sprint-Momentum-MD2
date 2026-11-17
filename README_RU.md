@@ -31,7 +31,7 @@
 ## 📥 Требования и установка
 
 1. Установите **Blueprint Loader 2.0+** в `Dungeons\Content\Paks\~mods\BlueprintLoader\`.
-2. Скачайте `SprintMomentum-1.0.0.zip` из [GitHub Releases](https://github.com/X1miyaStudio/Sprint-Momentum-MD2/releases).
+2. Скачайте `SprintMomentum-1.0.0.zip` с [CurseForge](https://www.curseforge.com/minecraft-dungeons-II/mods/sprint-momentum) или из [GitHub Releases](https://github.com/X1miyaStudio/Sprint-Momentum-MD2/releases).
 3. Закройте **Minecraft Dungeons II** и распакуйте папку `SprintMomentum` в:
    * **Steam:** `<SteamLibrary>\steamapps\common\Minecraft Dungeons II\Dungeons\Content\Paks\~mods\SprintMomentum\`
    * **Xbox App / Game Pass:** `<Drive>:\XboxGames\Minecraft Dungeons II\Content\Dungeons\Content\Paks\~mods\SprintMomentum\`
