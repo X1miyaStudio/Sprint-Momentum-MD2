@@ -1,0 +1,10 @@
+<Project Sdk="NeoRune.Sdk/1.0.0">
+  <PropertyGroup>
+    <NeoRuneModName>SprintMomentum</NeoRuneModName>
+    <NeoRuneModTitle>Sprint Momentum</NeoRuneModTitle>
+    <Version>1.0.0</Version>
+    <NeoRuneModAuthor>X1miyaStudio</NeoRuneModAuthor>
+    <NeoRuneModAuthorUrl>https://github.com/X1miyaStudio</NeoRuneModAuthorUrl>
+    <NeoRuneModDescription>Adds SprintMod and Sprint Momentum mechanics to Minecraft Dungeons II.\nHold, toggle, or auto-sprint to build speed momentum and ram through enemies at full speed.</NeoRuneModDescription>
+  </PropertyGroup>
+</Project>
