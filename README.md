@@ -4,8 +4,8 @@
 
 [![Game](https://img.shields.io/badge/Minecraft_Dungeons_II-UE_5.6-00FF88?style=for-the-badge)](https://github.com/X1miyaStudio/Sprint-Momentum-MD2)
 [![Release](https://img.shields.io/badge/GitHub_Release-v1.0.0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X1miyaStudio/Sprint-Momentum-MD2/releases/tag/v1.0.0)
-[![CurseForge](https://img.shields.io/badge/CurseForge-Download-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft-dungeons-II/mods/sprint-momentum)
-[![Loader](https://img.shields.io/badge/Blueprint_Loader-2.0%2B-blueviolet?style=for-the-badge)](https://www.nexusmods.com/minecraftdungeons2/mods/2)
+![CurseForge](https://img.shields.io/badge/CurseForge-Under_Review-F16436?style=for-the-badge&logo=curseforge&logoColor=white)
+![Loader](https://img.shields.io/badge/Blueprint_Loader-2.0%2B-blueviolet?style=for-the-badge)
 [![SDK](https://img.shields.io/badge/Built_with-NeoRune-00BFFF?style=for-the-badge)](https://github.com/X1miyaStudio/Sprint-Momentum-MD2)
 [![Studio](https://img.shields.io/badge/Studio-X1miyaStudio-064E3B?style=for-the-badge)](https://t.me/X1miyaStudio)
 

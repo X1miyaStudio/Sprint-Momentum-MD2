@@ -4,7 +4,7 @@
 
 [![Game](https://img.shields.io/badge/Minecraft_Dungeons_II-UE_5.6-00FF88?style=for-the-badge)](https://github.com/X1miyaStudio/Sprint-Momentum-MD2)
 [![Release](https://img.shields.io/badge/GitHub_Release-v1.0.0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X1miyaStudio/Sprint-Momentum-MD2/releases/tag/v1.0.0)
-[![CurseForge](https://img.shields.io/badge/CurseForge-Download-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft-dungeons-II/mods/sprint-momentum)
+![CurseForge](https://img.shields.io/badge/CurseForge-%D0%9D%D0%B0_%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8-F16436?style=for-the-badge&logo=curseforge&logoColor=white)
 ![Loader](https://img.shields.io/badge/Blueprint_Loader-2.0%2B-blueviolet?style=for-the-badge)
 [![SDK](https://img.shields.io/badge/Built_with-NeoRune-00BFFF?style=for-the-badge)](https://github.com/X1miyaStudio/Sprint-Momentum-MD2)
 [![Studio](https://img.shields.io/badge/Studio-X1miyaStudio-064E3B?style=for-the-badge)](https://t.me/X1miyaStudio)
@@ -41,7 +41,7 @@
 ## 📥 Требования и установка
 
 1. Установите **Blueprint Loader 2.0+** в `Dungeons\Content\Paks\~mods\BlueprintLoader\`.
-2. Скачайте `SprintMomentum-1.0.0.zip` с [CurseForge](https://www.curseforge.com/minecraft-dungeons-II/mods/sprint-momentum) или из [GitHub Releases](https://github.com/X1miyaStudio/Sprint-Momentum-MD2/releases).
+2. Скачайте `SprintMomentum-1.0.0.zip` из [GitHub Releases](https://github.com/X1miyaStudio/Sprint-Momentum-MD2/releases).
 3. Закройте **Minecraft Dungeons II** и распакуйте папку `SprintMomentum` в:
    * **Steam:** `<SteamLibrary>\steamapps\common\Minecraft Dungeons II\Dungeons\Content\Paks\~mods\SprintMomentum\`
    * **Xbox App / Game Pass:** `<Drive>:\XboxGames\Minecraft Dungeons II\Content\Dungeons\Content\Paks\~mods\SprintMomentum\`
