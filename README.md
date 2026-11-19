@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:F59E0B,100:00FF88&height=180&section=header&text=Sprint%20Momentum&fontSize=40&fontColor=ffffff&fontAlignY=40" width="100%" alt="Sprint Momentum Banner" />
 
 [![Game](https://img.shields.io/badge/Minecraft_Dungeons_II-UE_5.6-00FF88?style=for-the-badge)](https://github.com/X1miyaStudio/Sprint-Momentum-MD2)
+[![Release](https://img.shields.io/badge/GitHub_Release-v1.0.0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X1miyaStudio/Sprint-Momentum-MD2/releases/tag/v1.0.0)
 [![CurseForge](https://img.shields.io/badge/CurseForge-Download-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft-dungeons-II/mods/sprint-momentum)
 [![Loader](https://img.shields.io/badge/Blueprint_Loader-2.0%2B-blueviolet?style=for-the-badge)](https://www.nexusmods.com/minecraftdungeons2/mods/2)
 [![SDK](https://img.shields.io/badge/Built_with-NeoRune-00BFFF?style=for-the-badge)](https://github.com/X1miyaStudio/Sprint-Momentum-MD2)
@@ -14,7 +15,10 @@
 </p>
 
 <p align="center">
-  <a href="README_RU.md">🇷🇺 Русская документация</a>
+  <img src="https://img.shields.io/badge/Language-English-00FF88?style=flat-square" alt="English" />
+  <a href="README_RU.md">
+    <img src="https://img.shields.io/badge/%D0%AF%D0%B7%D1%8B%D0%BA-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-0D1117?style=flat-square&logo=googletranslate&logoColor=white" alt="Русская версия" />
+  </a>
 </p>
 
 </div>
